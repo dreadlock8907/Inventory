@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2db2e98bb40ac40bf6d48303e5bdca, type: 3}
+  m_Name: PlateHelmet
+  m_EditorClassIdentifier: 
+  Name: Plate Helmet
+  Rare: 3
+  Description: it's a really good stuff
+  Sprite: {fileID: 21300000, guid: b8dd5be00ef322a4aacf615e46aa5ed2, type: 3}
+  Stackable: 0
+  ItemType:
+    Type: 0
+  ID: 16
+  ArmorType:
+    Type: 1
+  Defence: 45
+  Model: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
